@@ -1,0 +1,15 @@
+SMART BUNK MARGIN & ATTENDANCE DEFENSE PLANNER
+Subject: Computer Science
+Conducted classes: 24
+Attended classes: 19
+Required attendance: 75%
+Upcoming classes: 6
+Planned bunks: 1
+
+--- Attendance Defense Plan ---
+Current attendance: 79.17%
+Required attendance: 75.00%
+Safe additional bunks: 1
+Recovery classes needed: 0
+Projected attendance: 80.00%
+Status: WATCH

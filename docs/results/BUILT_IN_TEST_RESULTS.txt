@@ -1,0 +1,26 @@
+test_attendance_percentage (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_attendance_percentage) ... ok
+test_attended_exceeds_conducted (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_attended_exceeds_conducted) ... ok
+test_below_target_margin_zero (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_below_target_margin_zero) ... ok
+test_blank_subject (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_blank_subject) ... ok
+test_bunk_margin (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_bunk_margin) ... ok
+test_bunks_exceed_upcoming (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_bunks_exceed_upcoming) ... ok
+test_csv_round_trip (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_csv_round_trip) ... ok
+test_duplicate_subject_is_updated (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_duplicate_subject_is_updated) ... ok
+test_exact_target_boundary (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_exact_target_boundary) ... ok
+test_future_plan_acceptability (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_future_plan_acceptability) ... ok
+test_future_projection (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_future_projection) ... ok
+test_invalid_conducted (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_invalid_conducted) ... ok
+test_invalid_target (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_invalid_target) ... ok
+test_oop_composition_and_methods (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_oop_composition_and_methods) ... ok
+test_recovery_classes (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_recovery_classes) ... ok
+test_report_inheritance_and_statistics (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_report_inheritance_and_statistics) ... ok
+test_risk_below_target (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_risk_below_target) ... ok
+test_risk_safe (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_risk_safe) ... ok
+test_risk_watch (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_risk_watch) ... ok
+test_subject_lookup_dictionary (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_subject_lookup_dictionary) ... ok
+test_watch_and_safe_boundaries (tests.test_smart_bunk_margin_planner.AttendancePlannerTests.test_watch_and_safe_boundaries) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.013s
+
+OK
